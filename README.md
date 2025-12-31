@@ -50,6 +50,7 @@ Jumping-Humanoid-Leg/
 ├── animate/                      # Scripts for visualizing the leg's movement
 ├── arduino_controller_code/      # C++ code for real-time control (e.g., servo control)
 ├── auto/                         # Automatically generated functions (D, C, G matrices, etc.)
+├── docs/                         # Detailed presentation and report on how the system works
 ├── dynamics/                     # Parameters and helper functions for the dynamic model
 ├── events/                       # Functions defining mode transitions (takeoff, touchdown)
 ├── media/                        # Storage for images, diagrams, and GIFs
